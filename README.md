@@ -1,6 +1,6 @@
 # OpenGlasses 👓⚡
 
-OpenGlasses is a lightweight, portable AI gadget designed to bring conversational intelligence directly into wearable form. Built on Raspberry Pi, powered by ElevenLabs' API for natural, expressive interactions, and supported by carefully selected hardware components, OpenGlasses is a blend of hardware hacking and creative AI engineering.
+A.I. Powered glasses attachment which turn you superhuman
 
 ---
 
