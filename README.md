@@ -1,4 +1,4 @@
-# OpenGlasses 👓⚡
+# OpenGlasses (AI powered smart glasses universal gadget)
 
 A.I. Powered glasses attachment which turn you superhuman
 
@@ -9,13 +9,7 @@ A.I. Powered glasses attachment which turn you superhuman
 - **Raspberry Pi Zero 2 W** – The brain of the device, handling processing and connectivity.  
 - **3.7V Lithium Battery** – Compact power source for mobility.  
 - **Adafruit PowerBoost 1000** – Safely boosts and regulates battery power to the Pi.  
-- **Speaker/Microphone HAT** – Enables real-time voice input/output for natural conversation.  
-
----
-
-## 💬 AI Interface
-
-OpenGlasses uses the **ElevenLabs API** to provide a smooth, expressive LLM-powered chat interface. This allows the glasses to act as a voice-enabled assistant, capable of holding conversations, answering questions, and integrating with your digital ecosystem.
+- **Speaker/Microphone HAT** – Enables real-time voice input/output for natural 
 
 ---
 
