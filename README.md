@@ -6,7 +6,7 @@
 
 ## 🔧 Components
 
-- **Raspberry Pi Zero 2 W** – The computer which will connect the software and hardware. Allows for internet/bluetooth/radio connectivity. Good for most AI use cases which ping cloud servers.
+- **Raspberry Pi Zero 2 W** – The microprocessor which will connect the software and hardware. Allows for internet/bluetooth/radio connectivity. Good for most AI use cases which ping cloud servers. Can also use ESP32 for more compact device.
 - **3.7V Lithium Battery** – Compact power source for mobility, they come in different sizes, recommend anything 1000mAH+
 - **Adafruit PowerBoost 1000** – Safely boosts and regulates battery power to the Pi. This steps up the 3.7V into 5V so we can power the raspberry pi succesfully.
 - **Speaker/Microphone HAT** – Enables real-time voice input/output for natural language chat. 
