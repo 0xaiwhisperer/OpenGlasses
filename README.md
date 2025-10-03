@@ -25,4 +25,4 @@ A.I. Powered glasses attachment which turn you superhuman
 
 ## 🌐 Vision
 
-OpenGlasses is more than just a gadget – it’s a step toward **AI-augmented wearables**, blending creativity, practicality, and intelligence in one frame.
+OpenGlasses is more than just a gadget – it’s a step toward **AI-augmented wearables**, blending fashion, creativity, practicality, and intelligence in one frame.
