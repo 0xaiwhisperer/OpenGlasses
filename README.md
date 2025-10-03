@@ -1,6 +1,6 @@
 # OpenGlasses
 
-Community focused on a universal 3d printable attachment which has a goal to fit on any pair of glasses so you can blend the latest AI technologies with the future of fashion turning humans, into superhumans.
+Repository focused on a universal 3d printable attachment which has a goal to fit on any pair of glasses so you can blend the latest AI technologies with the future of fashion turning humans, into superhumans.
 
 ---
 
@@ -25,4 +25,4 @@ Community focused on a universal 3d printable attachment which has a goal to fit
 
 ## 🌐 Vision
 
-OpenGlasses is more than just a gadget – it’s a step toward **AI-augmented wearables**, blending fashion, creativity, practicality, and intelligence in one frame.
+OpenGlasses is more than just a gadget – it’s a step toward **AI-augmented wearables**, blending fashion, creativity, practicality, and intelligence in one frame. Join the community here:
