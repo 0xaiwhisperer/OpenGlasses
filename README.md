@@ -6,8 +6,8 @@ Project focused on a 3d printable gadget which has a goal to fit on any pair of 
 
 ## 🔧 Components
 
-- **Raspberry Pi Zero 2 W** – The microprocessor which will connect the software and hardware. Allows for internet/bluetooth/radio connectivity. Good for most AI use cases which ping cloud servers. Can also use ESP32 for a more compact device.
-- **3.7V Lithium Battery** – Compact power source for mobility, they come in different sizes, recommend anything 1000mAH+
+- **Raspberry Pi Zero 2 W** – The microprocessor which will connect the software and hardware components together. Allows for internet/bluetooth/radio connectivity. Good for most AI use cases which can access any LLM cloud server. Can also use ESP32 for a more compact device.
+- **3.7V Lithium Battery** – Compact power source for mobility & portability, they come in different sizes, recommend anything 1000mAH+.
 - **Adafruit PowerBoost 1000** – Safely boosts and regulates battery power to the Pi. This steps up the 3.7V into 5V so we can power the raspberry pi succesfully.
 - **Speaker/Microphone HAT** – Enables real-time voice input/output for natural language chat. 
 
