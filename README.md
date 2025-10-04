@@ -1,6 +1,6 @@
 # OpenGlasses
 
-Project focused on a 3d printable gadget which has a goal to fit on any pair of glasses so you can blend the latest AI technologies with the future of fashion turning humans, into superhumans.
+Project focused on a 3d printable gadget which has a goal to fit on any pair of glasses so you can blend the latest AI technologies with the future of fashion turning humans into superhumans.
 
 ---
 
