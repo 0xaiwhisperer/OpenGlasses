@@ -25,4 +25,4 @@
 
 ## 🌐 Vision
 
-OpenGlasses is more than just a gadget – it’s a step toward **AI-augmented wearables**, blending fashion, creativity, practicality, and intelligence in one frame. Join the community here:
+OpenGlasses is more than just a gadget – it’s a step toward open source **AI-augmented wearables**, blending fashion, creativity, practicality, and intelligence in one frame. Join the community here:
