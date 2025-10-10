@@ -6,7 +6,7 @@
 
 ---
 
-### 🌐 Connect with Us
+### 🌐 Tutorial
 
 [**TikTok**](https://tiktok.com) •  
 [**Instagram**](https://instagram.com) •  
