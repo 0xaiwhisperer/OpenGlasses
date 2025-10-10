@@ -1,6 +1,18 @@
 # OpenGlasses
 
+![Featured Image](assets/featured_image.png)
+
 3d printable gadget which has a goal to fit to any pair of glasses so you can blend the latest AI technologies with the future of fashion, turning humans into superhumans.
+
+---
+
+### 🌐 Connect with Us
+
+[**TikTok**](https://tiktok.com) •  
+[**Instagram**](https://instagram.com) •  
+[**X (Twitter)**](https://x.com) •  
+[**LinkedIn**](https://linkedin.com) •  
+[**Linktree**](https://linktr.ee)
 
 ---
 
