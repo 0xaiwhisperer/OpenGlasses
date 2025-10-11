@@ -39,25 +39,6 @@ A blend of open-source intelligence, art, and personal identity — for creators
 | ⚡ **Adafruit PowerBoost 1000** | Safely boosts 3.7 V → 5 V, powering the Pi reliably. |
 | 🎙️ **Speaker / Microphone HAT** | Enables real-time voice conversation with your AI assistant. |
 
----
-
-## ⚠️ Safety Precautions
-
-**⚡ Lithium Battery Handling:**  
-- Lithium batteries can be **dangerous if mishandled** — they may **overheat, swell, or ignite** if shorted, punctured, or charged improperly.  
-- Always **use a protected battery circuit**, and **avoid metal contact** with exposed terminals.  
-- Ensure **correct polarity** (red = positive, black = ground) when wiring components.  
-- Never leave charging batteries unattended.  
-- Use a **quality charger with overcurrent protection**.  
-
-**🔥 Shorts & Wiring:**  
-- Double-check your wiring before powering up. A single misplaced wire or solder bridge can cause shorts and component damage.  
-- Use **heat-shrink tubing**, **electrical tape**, or **insulated connectors** on all exposed leads.  
-- If you smell burning or feel heat near the circuit, **disconnect immediately** and investigate.  
-
-> ⚠️ **Disclaimer:** OpenGlasses is a community-led, experimental project.  
-> By assembling or using it, you accept full responsibility for your build.  
-> **Do proper research** on lithium battery safety and low-voltage power systems before attempting any modifications.
 
 ---
 
@@ -79,6 +60,27 @@ From modular vision systems to edge-AI processing, the OpenGlasses ecosystem gro
 <p align="center">
   <strong>✨ Join the revolution. Build the future. Be the prototype. ✨</strong>
 </p>
+
+---
+
+
+## ⚠️ Safety Precautions
+
+**⚡ Lithium Battery Handling:**  
+- Lithium batteries can be **dangerous if mishandled** — they may **overheat, swell, or ignite** if shorted, punctured, or charged improperly.  
+- Always **use a protected battery circuit**, and **avoid metal contact** with exposed terminals.  
+- Ensure **correct polarity** (red = positive, black = ground) when wiring components.  
+- Never leave charging batteries unattended.  
+- Use a **quality charger with overcurrent protection**.  
+
+**🔥 Shorts & Wiring:**  
+- Double-check your wiring before powering up. A single misplaced wire or solder bridge can cause shorts and component damage.  
+- Use **heat-shrink tubing**, **electrical tape**, or **insulated connectors** on all exposed leads.  
+- If you smell burning or feel heat near the circuit, **disconnect immediately** and investigate.  
+
+> ⚠️ **Disclaimer:** OpenGlasses is a community-led, experimental project.  
+> By assembling or using it, you accept full responsibility for your build.  
+> **Do proper research** on lithium battery safety and low-voltage power systems before attempting any modifications.
 
 ---
 
