@@ -52,18 +52,6 @@ A blend of open-source intelligence, art, and personal identity — for creators
 
 ---
 
-## 🌌 Future of Wearables
-
-We believe in **open-source augmentation** — technology built for **creativity, inclusivity, and freedom**.  
-From modular vision systems to edge-AI processing, the OpenGlasses ecosystem grows with every maker who contributes.
-
-<p align="center">
-  <strong>✨ Join the revolution. Build the future. Be the prototype. ✨</strong>
-</p>
-
----
-
-
 ## ⚠️ Safety Precautions
 
 **⚡ Lithium Battery Handling:**  
@@ -81,6 +69,18 @@ From modular vision systems to edge-AI processing, the OpenGlasses ecosystem gro
 > ⚠️ **Disclaimer:** OpenGlasses is a community-led, experimental project.  
 > By assembling or using it, you accept full responsibility for your build.  
 > **Do proper research** on lithium battery safety and low-voltage power systems before attempting any modifications.
+
+---
+
+
+## 🌌 Future of Wearables
+
+We believe in **open-source augmentation** — technology built for **creativity, inclusivity, and freedom**.  
+From modular vision systems to edge-AI processing, the OpenGlasses ecosystem grows with every maker who contributes.
+
+<p align="center">
+  <strong>✨ Join the revolution. Build the future. Be the prototype. ✨</strong>
+</p>
 
 ---
 
